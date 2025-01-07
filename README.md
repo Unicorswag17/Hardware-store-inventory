@@ -1,5 +1,5 @@
 This program allows users to manage a hardware store inventory through a command-line interface. Developed in **C**, it provides functionalities to:
-
+- choice menu for inventory management
 - Add new tools to the inventory.
 - Update the quantity or price of an existing tool.
 - Automatically remove tools with zero quantity.
